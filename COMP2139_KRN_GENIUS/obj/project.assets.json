@@ -851,19 +851,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yimsh\\.nuget\\packages\\": {}
+    "C:\\Users\\JY\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yimsh\\OneDrive\\Desktop\\Semester4\\WEB\\Assignment1\\COMP2139_KRN_GENIUS\\COMP2139_KRN_GENIUS\\COMP2139_KRN_GENIUS.csproj",
+      "projectUniqueName": "C:\\Users\\JY\\Desktop\\GBC4\\COMP2139 WEB APP DEVELOPMENT\\KRN_GENIUS\\COMP2139_KRN_GENIUS\\COMP2139_KRN_GENIUS.csproj",
       "projectName": "COMP2139_KRN_GENIUS",
-      "projectPath": "C:\\Users\\yimsh\\OneDrive\\Desktop\\Semester4\\WEB\\Assignment1\\COMP2139_KRN_GENIUS\\COMP2139_KRN_GENIUS\\COMP2139_KRN_GENIUS.csproj",
-      "packagesPath": "C:\\Users\\yimsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yimsh\\OneDrive\\Desktop\\Semester4\\WEB\\Assignment1\\COMP2139_KRN_GENIUS\\COMP2139_KRN_GENIUS\\obj\\",
+      "projectPath": "C:\\Users\\JY\\Desktop\\GBC4\\COMP2139 WEB APP DEVELOPMENT\\KRN_GENIUS\\COMP2139_KRN_GENIUS\\COMP2139_KRN_GENIUS.csproj",
+      "packagesPath": "C:\\Users\\JY\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JY\\Desktop\\GBC4\\COMP2139 WEB APP DEVELOPMENT\\KRN_GENIUS\\COMP2139_KRN_GENIUS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yimsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JY\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
